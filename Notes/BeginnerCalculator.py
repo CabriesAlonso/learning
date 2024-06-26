@@ -1,6 +1,5 @@
 import tkinter as tk
 
-////dddsadad
 def add():
     c1 = int(count1.get())
     c2 = int(count2.get())
